@@ -33,7 +33,7 @@ colorama==0.3.7
 configparser==3.5.0
 conllu==0.10.6
 constantly==15.1.0
-cryptography==2.2.2
+cryptography>=2.3
 cssselect==1.0.3
 cupy-cuda92==5.0.0
 cycler==0.10.0
@@ -191,7 +191,7 @@ pyzmq==17.0.0
 qtconsole==4.3.1
 queuelib==1.5.0
 regex==2018.1.10
-requests==2.19.1
+requests>=2.20.0
 requests-toolbelt==0.8.0
 rsa==3.4.2
 s3transfer==0.1.13
